@@ -1,2 +1,3 @@
 # javascript-practice
- Collection of JavaScript practice projects
+
+***Collection of JavaScript practice projects***
